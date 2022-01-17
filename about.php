@@ -21,6 +21,7 @@
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
             <li><a href="portfolio.php">Portfolio</a></li>
+            <li><a href="log_out.php">Log Out</a></li>
             <li><a href="login.php">Login</a></li>
             <li><a href="feedback.php">Feedback</a></li>
         </ul>
